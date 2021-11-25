@@ -1,2 +1,2 @@
-# glass icons
+# Glass Icons
 Glass icons for web developers!
